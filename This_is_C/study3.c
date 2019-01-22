@@ -12,7 +12,7 @@ int main(void) {
 	printf("키  : %.1lf\n", length - 0.5);
 	printf("혈액형: %c형", blood);
 
-	printf("3장 연습문제 풀이");
+	printf("3장 연습문제 풀이 마스터");
 
 	return 0;
 
